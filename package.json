@@ -1,0 +1,15 @@
+{
+    "name": "maintenance-app",
+    "version": "1.0.0",
+    "description": "An application to handle maintenance responses for web and REST API requests.",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Jigneshkumar Patel",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
